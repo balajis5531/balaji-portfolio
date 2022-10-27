@@ -1,3 +1,30 @@
 body {
-	background-image: url("background.jpg");
+	background-image:url("background.jpg");
+}
+p ,li {
+	color:#ffff;
+}
+h2 {
+	color:#ffff;
+	text-align:center;
+	
+}
+h1 {
+	
+}
+img {
+	display: right;
+  flex-direction: row;
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  border-color: #ffff;
+  border-width: 4px;
+  border-style: solid;
+  border-radius:50%;
+  
+	
+	
+	
 }
